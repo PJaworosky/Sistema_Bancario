@@ -38,9 +38,7 @@ cd seu-repositorio
 
 Feito\! Aqui está o `README.md` completo com os ícones que você pediu ao lado do seu nome.
 
------
 
-````markdown
 # Sistema Bancário Simples com Python 🏦
 
 ## Sobre o Projeto 📚
@@ -60,27 +58,6 @@ O sistema bancário possui as seguintes operações:
     -   Verifica se há saldo suficiente para a operação.
 -   **Extrato:** Exibe o histórico completo de todas as operações de depósito e saque, além do saldo atual da conta.
 
-## Como Executar o Projeto 🚀
-
-Para rodar este sistema na sua máquina, siga os passos abaixo:
-
-### Pré-requisitos
-Certifique-se de ter o Python 3.8 ou superior instalado.
-
-### Clonagem do Repositório
-Abra o terminal e execute o comando abaixo para clonar o repositório:
-```bash
-git clone [https://github.com/PJaworosky/seu-repositorio.git](https://github.com/PJaworosky/seu-repositorio.git)
-cd seu-repositorio
-````
-
-### Execução
-
-Execute o arquivo `banco.py` diretamente pelo terminal:
-
-```bash
-python banco.py
-```
 
 ## Tecnologias Utilizadas 💻
 
