@@ -4,8 +4,7 @@ Sistema bancário básico, com cada operação (depósito, saque e extrato)
 
 ## Sobre o Projeto
 
-Este projeto é uma implementação de um sistema bancário básico por linha de comando, desenvolvido em Python. Ele foi criado como parte de um **Projeto Integrado** para o curso de **Análise e Desenvolvimento de Sistemas**.
-
+Este projeto é uma implementação de um sistema bancário básico por linha de comando, desenvolvido em Python. Ele foi criado como parte de um desafio de Bootcamp da DIO.
 O objetivo principal foi aplicar e consolidar conhecimentos em lógica de programação e estruturação de código, simulando operações financeiras essenciais como depósito, saque e a visualização de um extrato. O projeto demonstra habilidades fundamentais em Python, incluindo manipulação de variáveis, estruturas de controle e tratamento de entradas do usuário, diretamente aplicadas em um cenário prático.
 
 ## Funcionalidades ✨
