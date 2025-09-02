@@ -95,7 +95,6 @@ python banco.py
 
 <!-- end list -->
 
-```
-```## Finalizando
+## Finalizando
 
 Este projeto marca o início da minha jornada em desenvolvimento de software, combinando minha experiência em gestão com a paixão por criar soluções eficientes. Estou entusiasmada em continuar aprendendo e construindo.
