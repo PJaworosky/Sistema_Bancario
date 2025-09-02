@@ -31,3 +31,14 @@ Abra o terminal e execute o comando abaixo para clonar o repositório:
 ```bash
 git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
 cd seu-repositorio
+
+## Tecnologias Utilizadas
+
+-   **Python 3**
+
+## Autor
+
+**Paloma Jaworosky**
+
+-   [Seu Perfil no GitHub](https://github.com/PJaworosky)
+-   [Seu Perfil no LinkedIn](https://www.linkedin.com/in/palomajaworosky)
